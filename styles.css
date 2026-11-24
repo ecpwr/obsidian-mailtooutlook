@@ -1,0 +1,19 @@
+.kentro-mail {
+  position: relative;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  background: var(--code-background, var(--background-secondary));
+  padding: 12px 16px;
+  margin: 8px 0 16px 0;
+}
+.kentro-mail-body > *:first-child { margin-top: 0; }
+.kentro-mail-body > *:last-child { margin-bottom: 0; }
+.kentro-mail-copy {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  font-size: var(--font-ui-smaller);
+  padding: 2px 10px;
+  height: auto;
+  cursor: pointer;
+}

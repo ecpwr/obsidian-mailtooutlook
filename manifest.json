@@ -1,0 +1,9 @@
+{
+  "id": "kentro-mailvorlage",
+  "name": "KENTRO Mailvorlage",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Code-Block mail zeigt eine Mailvorlage als formatierten Text mit Kopier-Knopf. Kopiert als E-Mail-HTML (Arial 12 pt, schwarz, echte Listen, feste Leerzeilen) für Outlook Classic und Outlook im Web.",
+  "author": "KENTRO Plan GmbH",
+  "isDesktopOnly": false
+}
